@@ -8,7 +8,7 @@ more instructions:
 
 Clone the repository to your  machine:
 
-git clone< https://github.com/rugemana/Rugemana_christian_interactive_photo_gallery/tree/main
+git clone< https://github.com/rugemana/christian_interactive_photo_gallery/tree/main
 
 Navigate to the project directory:
  interactive-photo-gallery
